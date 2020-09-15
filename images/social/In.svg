@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 41 41" width="41" height="41">
+	<defs>
+		<image width="44" height="44" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAYAAAAehFoBAAABxElEQVRYR2NkGGKAcYi5lwHh4Oqt/we54/8ztHozjTqYhrE0GsI0DFyw0aMhPBrCaCEwmiQGZ5JQEORkWB9lzGAgycfw4cdvhsJt1xkWnHtCa8eSX0rMD9JjSDCSQXGgYu9+hgfvv9Pa0eSl4f3J5gwOisIojjOceoThwvNPg9PBAZriDOujjeGOAzkU5GA6APJCGOQwUAg7KAoxPPjwnWHDtZfgtEwHQL6D6eA4bFaQ52BQhos3lEYx0HHuSTC/30sTXHrAACi5gEqRBidVhnhDGQZQCQMCG66/ZJh47AHDgftvSfE7eQ4GWV7vpIpiEWPNNjAfXQ7kIFDpgV6qwDQnrrtESpFIewcTE3wkFIn0cTAoQ4Iqlo8//qAkC5hnGvfdZmjYd5sYv9HHwaD0DUurAhysDPdLHBhANAyA5GB5gICrae9gbGU0qAwHleWD0sHYQg9bxhw0ITzqYHLGJUgth9Gje1AlCfSm56BPEuhNz1EHk5OGYU1L5EIeVlOB2gwKApAGDgiAmp/o3Sd0/djU4KhAyKs4iKlDaaRm1ME0Cli4saMhPBrCaCEwmiRGk8SwSxL/aB2nFJuP0pag2DT6GAAAaLmZPEoy1isAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="top">
+		<g id="left_side">
+			<g id="buttons_social media">
+				<use id="In" href="#img1" transform="matrix(1,0,0,1,-2,-2)"/>
+			</g>
+		</g>
+	</g>
+</svg>
